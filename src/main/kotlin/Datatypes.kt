@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    var city:String = "Nairobi" //
+    var city:String = "Nairobi"
     var age:Int = 20 //
     var domain = 'k' //Char
     var status:Boolean = true//Boolean
